@@ -2,7 +2,7 @@
 
 An automated, mobile-optimized packing checklist built in Google Sheets to streamline gear organization, track packing progress, and automatically generate required sub-lists.
 
-![App Preview](images/preview.png)
+![App Preview](mainlistpaint.png)
 
 ## Key Features
 - **Dynamic Progress Tracking:** Visual progress bars and status indicators to monitor packed gear in real-time.
