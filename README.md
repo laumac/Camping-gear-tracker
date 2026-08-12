@@ -1,8 +1,8 @@
 # Automated Camping Gear Tracker & Packing List (Google Sheets)
 
-An automated, mobile-optimized packing checklist built in Google Sheets to streamline gear organization, track packing progress, and automatically generate required sub-lists.
+An automated, mobile-optimized packing checklist built in Google Sheets to streamline gear organization, track packing progress, and automatically generate required information.
 
-![App Preview](mainlistpaint.png)
+<img src="mainlistpaint.png" width="400">)
 
 ## Key Features
 - **Dynamic Progress Tracking:** Visual progress bars and status indicators to monitor packed gear in real-time.
@@ -16,9 +16,7 @@ An automated, mobile-optimized packing checklist built in Google Sheets to strea
 - **Edge-Case Handling:** Designed for varying environmental conditions and trip durations (dynamic day counter).
 
 ## How to Use
-1. Access the template link below to make a copy.
-2. Update your master gear list and customize categories.
-3. Check off items as you pack; dynamic summaries will update automatically.
+1. Get the template here: [Gumroad Template Link](https://laumaci.gumroad.com/l/campintent)
+2. Make a copy to your personal Google Drive.
+3. Update your master gear list and check off items as you pack.
 
----
-*Created as part of a software QA and Data Analysis portfolio.*
